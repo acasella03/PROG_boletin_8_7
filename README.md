@@ -10,4 +10,4 @@ Si presiona una opción que no tiene menú, verá un mensaje de opción incorrec
 3. Circulo
 
 ### Diagrama de flujo del programa:
-Se encuenta en el archivo .drawio del repositorio.
+![Diagrama](Diagrama.jpg)

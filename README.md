@@ -9,5 +9,5 @@ Si presiona una opción que no tiene menú, verá un mensaje de opción incorrec
 2. Triángulo
 3. Circulo
 
-## Diagrama de flujo del programa:
-![](https://github.com/acasella03/PROG_boletin_8_7/commit/0756305c0cae48bb8dfed9ee363737f573a01610)
+### Diagrama de flujo del programa:
+Se encuenta en el archivo .drawio del repositorio.

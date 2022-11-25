@@ -5,6 +5,9 @@
  * @version 24.11.2022
  */
 public class Cuadrado {
+    /**
+     * Lado del cuadrado
+     */
     private float lado;
 
     /**

@@ -5,6 +5,9 @@
  * @version 24.11.2022
  */
 public class Circulo {
+    /**
+     * Radio del circulo
+     */
     private float radio;
 
     /**

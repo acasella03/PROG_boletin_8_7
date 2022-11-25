@@ -5,7 +5,13 @@
  * @version 24.11.2022
  */
 public class Triangulo {
+    /**
+     * Base del triangulo
+     */
     private float base;
+    /**
+     * Altura del triangulo
+     */
     private float altura;
 
     /**

@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Aplicacion que calcula el area de distintas figuras geometricas
  *
  * @author Angi M. Casella
- * @version 24.11.2022
+ * @version 25.11.2022
  */
 public class Main {
     /**

@@ -2,7 +2,7 @@
  * Clase Circulo.
  *
  * @author Angi M. Casella
- * @version 24.11.2022
+ * @version 25.11.2022
  */
 public class Circulo {
     /**
